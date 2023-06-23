@@ -28,7 +28,7 @@ They now want a report on how repeat purchases impact sales.
 4. Describe the relationship between repeat purchases and sales. Your answer must include a visualization to demonstrate the relationship.
 
 
-## Solution
+## Answers
 ### Task 1
 - For every column in the data:
     - State whether the values match the description given in the table above.
